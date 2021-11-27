@@ -39,7 +39,7 @@ https://gumoe.cc
 - 个人TG沙雕图频道: [咕谷の窝](https://t.me/Goo_nest "咕谷の窝")
 - 待补充先这样
 
-### 原文详见: [咕萌小站](https://gmoe.cc/about.html "咕萌小站")
+### 原文详见: [咕萌小站](https://gmoe.cc/about "咕萌小站")
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=GooGuJiang&show_icons=true&theme=radical&hide_border=true" />
 </p>
