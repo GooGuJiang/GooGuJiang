@@ -3,6 +3,16 @@
 会发布一些奇奇怪怪瞎折腾的东西......
 也不知道写什么反正爱好挺奇怪的说
 
+### GitHub
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=GooGuJiang&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+### 🎮原神统计\(^o^)/~
+
+![genshin](https://genshin-card.getloli.com/3/184713032.png)
+
+
 ##### 喜欢玩：
 - OSU 
 - 原神
@@ -40,11 +50,5 @@ https://gumoe.cc
 - 待补充先这样
 
 ### 原文详见: [咕萌小站](https://gmoe.cc/about.html "咕萌小站")
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=GooGuJiang&show_icons=true&theme=radical&hide_border=true" />
-</p>
 
-<!---
-GooGuJiang/GooGuJiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
