@@ -8,10 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GooGuJiang&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
-### 🎮原神统计\(^o^)/~
-
-![genshin](https://genshin-card.getloli.com/3/184713032.png)
-
 
 ##### 喜欢玩：
 - OSU 
