@@ -40,7 +40,6 @@ https://gumoe.cc
 - BILIBILI：[咕谷酱](https://space.bilibili.com/21141864 "咕谷酱")
 - 网易云: [咕谷酱](https://music.163.com/#/artist?id=48984207 "咕谷酱")
 - OSU: [Googujiang](https://osu.ppy.sh/users/15651670 "Googujiang")
-- 原神: 111195164(国服/可以在下面留言原神名字，好友列表快满了+_+)
 - Minecraft: GooGu_Jiang / Goo_Gu_Jiang （2个号）
 - 个人TG沙雕图频道: [咕谷の窝](https://t.me/Goo_nest "咕谷の窝")
 - 待补充先这样
