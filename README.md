@@ -1,47 +1,23 @@
-# 关于
-这里是咕谷酱的GitHub
-会发布一些奇奇怪怪瞎折腾的东西......
-也不知道写什么反正爱好挺奇怪的说
+这里是咕谷酱的个人博客
+我在这里会写一些奇奇怪怪的东西（划掉
 
-### GitHub
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=GooGuJiang&show_icons=true&theme=radical&hide_border=true" />
-</p>
+![image](https://user-images.githubusercontent.com/74496778/173046073-334f1b6d-3261-4c77-9c96-e840498c2359.png)
 
+插图来自 伊蕾娜 By yuko幽子
 
-##### 喜欢玩：
-- OSU 
+玩的游戏：
+- OSU
 - 原神
 - Minecraft
+## 关于性别?
+~~是蓝孩纸~~
 
-##### 折腾啥:
-- Python
-- PHP(学习中...)
-- C语言(学习中...)
-- Adobe After Effects(学习中...)
-- Adobe Photoshop
-- Adobe Premiere
-- FL Studio(学习中...)
-- 上学(学习中...)
+## 如何找到我
+基本上全平台ID为 咕谷酱
 
-PS:淦一堆要学习的wwww
+BILIBILI：咕谷酱
+网易云: 咕谷酱
 
-#### 喜欢：
-- 百合（好耶）
-- 萝莉
-- 海豹
-- 待补充
-
-#### 如何找到我
-基本上全平台ID为咕谷酱
-下面是个人主页
-https://gumoe.cc
-
-- BILIBILI：[咕谷酱](https://space.bilibili.com/21141864 "咕谷酱")
-- 网易云: [咕谷酱](https://music.163.com/#/artist?id=48984207 "咕谷酱")
-- OSU: [Googujiang](https://osu.ppy.sh/users/15651670 "Googujiang")
-- Minecraft: GooGu_Jiang / Goo_Gu_Jiang （2个号）
-- 个人TG沙雕图频道: [咕谷の窝](https://t.me/Goo_nest "咕谷の窝")
-- 待补充先这样
-
-
+原神: 111195164(国服/可以在下面留言原神名字，好友列表快满了+_+)
+Minecraft: GooGu_Jiang / Goo_Gu_Jiang （2个号）
+个人TG沙雕图频道: 咕谷の窝
