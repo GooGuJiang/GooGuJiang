@@ -19,5 +19,3 @@ Here, you'll discover quirky, interesting codes and projects I've concocted.
 - **[NetEase Music Profile](https://music.163.com/#/artist?id=48984207)**
 - **[Bilibili Channel](https://space.bilibili.com/21141864)**
 
-
-<script async src="https://umami.gmoe.cc/script.js" data-website-id="9beb0257-3f43-4c74-b788-56b7106eae1d"></script>
