@@ -8,14 +8,13 @@ Here, you'll discover quirky, interesting codes and projects I've concocted.
 
 ## 🐟Current ~~Procrastinating~~ Projects🐟
 
-- [Meme Searcher (memesearch.app)](https://memesearch.app/)
-- [Spinning Nuggets (nuggetspin.mov)](https://nuggetspin.mov/)
-- [咕小酱 (Telegram BOT)](https://github.com/GooGuJiang/Gugumoe-bot)
-- [Illustration Downloader Bot (Telegram BOT)](https://github.com/GooGuJiang/Gu-PicBot)
+- **[Meme Searcher (memesearch.app)](https://memesearch.app/)**
+- **[Spinning Nuggets (nuggetspin.mov)](https://nuggetspin.mov/)**
+- **[咕小酱 (Telegram BOT)](https://github.com/GooGuJiang/Gugumoe-bot)**
+- **[Illustration Downloader Bot (Telegram BOT)](https://github.com/GooGuJiang/Gu-PicBot)**
 
 ### 🔗About Me - Links🔗
 
 - **[Personal Blog](https://www.gmoe.cc/)**
 - **[NetEase Music Profile](https://music.163.com/#/artist?id=48984207)**
 - **[Bilibili Channel](https://space.bilibili.com/21141864)**
-
