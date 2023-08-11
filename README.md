@@ -1,7 +1,20 @@
-这里是咕谷酱的 GitHub
+# 🌟GooGuJiang🌟
 
-~我在这里会写一些奇奇怪怪的东西~
+**Welcome to GooGuJiang's GitHub!**
 
-<img src="https://user-images.githubusercontent.com/74496778/173046073-334f1b6d-3261-4c77-9c96-e840498c2359.png" />
+Here, you'll discover quirky, interesting codes and projects I've concocted.
 
-插图来自 伊蕾娜 By yuko幽子
+~~Each project has its own unique flavor of bugs~~🤔
+
+## 🐟Current ~~Procrastinating~~ Projects🐟
+
+- [Meme Searcher (memesearch.app)](https://memesearch.app/)
+- [Spinning Nuggets (nuggetspin.mov)](https://nuggetspin.mov/)
+- [Gugu-bot (Telegram BOT)](https://github.com/GooGuJiang/Gugumoe-bot)
+- [Illustration Downloader Bot](https://github.com/GooGuJiang/Gu-PicBot)
+
+### 🔗About Me - Links🔗
+
+- **[Personal Blog](https://www.gmoe.cc/)**
+- **[NetEase Music Profile](https://music.163.com/#/artist?id=48984207)**
+- **[Bilibili Channel](https://space.bilibili.com/21141864)**
