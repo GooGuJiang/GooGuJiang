@@ -13,7 +13,8 @@ Here, you'll discover quirky, interesting codes and projects I've concocted.
 - **[咕小酱 (Telegram BOT)](https://github.com/GooGuJiang/Gugumoe-bot)**
 - **[Illustration Downloader Bot (Telegram BOT)](https://github.com/GooGuJiang/Gu-PicBot)**
 
-### 🔗About Me - Links🔗
+
+## 🔗About Me - Links🔗
 
 - **[Personal Blog](https://www.gmoe.cc/)**
 - **[NetEase Music Profile](https://music.163.com/#/artist?id=48984207)**
